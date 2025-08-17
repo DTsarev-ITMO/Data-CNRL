@@ -1,1 +1,1 @@
-# Data-CNRL
+This repository contains the graph generated for studieng Complex networks for random lasers and photonic computing. The doi of the eponymous paper in Physical Review A will be added after publication. To acces the graphs use the Python code attached.
